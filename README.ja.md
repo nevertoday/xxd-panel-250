@@ -10,6 +10,53 @@
 
 > 原始プロンプト（5言語の入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右の作例
+
+上下の組とは別の縦写真20点。それぞれ 16:9 の左右完成キャンバス。左が現実写真、右が本 Panel のデザイン、厳密に 50:50。文字は今の写真から生成し、中国語・英語・日本語・韓国語・アラビア語を順に回す。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 250 sample 21"></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 250 sample 22"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 250 sample 23"></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 250 sample 24"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 250 sample 25"></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 250 sample 26"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 250 sample 27"></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 250 sample 28"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 250 sample 29"></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 250 sample 30"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 250 sample 31"></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 250 sample 32"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 250 sample 33"></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 250 sample 34"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 250 sample 35"></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 250 sample 36"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 250 sample 37"></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 250 sample 38"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 250 sample 39"></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 250 sample 40"></td>
+  </tr>
+</table>
+
 ## 3:4 上下の作例
 
 互いに異なる20点の写真で、それぞれ 3:4 上下の完成キャンバス。上が現実写真、下が本 Panel のデザイン、厳密に 50:50。文字は今の写真から生成し、中国語・英語・日本語・韓国語・アラビア語を順に回す。

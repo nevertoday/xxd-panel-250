@@ -10,6 +10,53 @@ Keep the photograph above. Below, compress the scene into abstract architectural
 
 > Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## 16:9 Left–Right Samples
+
+Twenty further portrait photographs, different from the top–bottom set. Each is one complete 16:9 left–right canvas. The photograph stays on the left and this Panel's design fills the right, exact 50:50. Visible copy is generated from the current photograph, rotating across Chinese, English, Japanese, Korean and Arabic.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 250 sample 21"></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 250 sample 22"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 250 sample 23"></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 250 sample 24"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 250 sample 25"></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 250 sample 26"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 250 sample 27"></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 250 sample 28"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 250 sample 29"></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 250 sample 30"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 250 sample 31"></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 250 sample 32"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 250 sample 33"></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 250 sample 34"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 250 sample 35"></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 250 sample 36"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 250 sample 37"></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 250 sample 38"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 250 sample 39"></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 250 sample 40"></td>
+  </tr>
+</table>
+
 ## 3:4 Top–Bottom Samples
 
 Twenty independent photographs, each rebuilt as one complete 3:4 top–bottom canvas. The photograph stays in the upper half and this Panel's design fills the lower half, exact 50:50. Visible copy is generated from the current photograph. The language rotates across Chinese, English, Japanese, Korean and Arabic.

@@ -10,6 +10,53 @@
 
 > مدخل النص الأصلي (باللغات الخمس): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## نماذج 16:9 يسار–يمين
+
+عشرون صورة عمودية أخرى، مختلفة عن مجموعة الأعلى–الأسفل. كل منها لوحة 16:9 يمين–يسار مكتملة. الصورة في النصف الأيسر والتصميم في النصف الأيمن، مناصفة دقيقة 50:50. يُولَّد النص من الصورة الحالية وتدور اللغة بين الصينية والإنجليزية واليابانية والكورية والعربية.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 250 sample 21"></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 250 sample 22"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 250 sample 23"></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 250 sample 24"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 250 sample 25"></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 250 sample 26"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 250 sample 27"></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 250 sample 28"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 250 sample 29"></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 250 sample 30"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 250 sample 31"></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 250 sample 32"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 250 sample 33"></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 250 sample 34"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 250 sample 35"></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 250 sample 36"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 250 sample 37"></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 250 sample 38"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 250 sample 39"></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 250 sample 40"></td>
+  </tr>
+</table>
+
 ## نماذج 3:4 أعلى–أسفل
 
 عشرون صورة مستقلة، كل منها لوحة 3:4 مكتملة. تبقى الصورة في النصف العلوي ويملأ تصميم هذا اللوح النصف السفلي، مناصفة دقيقة 50:50. يُولَّد النص من الصورة الحالية، وتدور اللغة بين الصينية والإنجليزية واليابانية والكورية والعربية.

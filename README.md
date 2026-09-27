@@ -10,6 +10,53 @@
 
 > 原始提示词（五语入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右双联样张
+
+以下二十张使用与上下组完全不同的竖幅素材，各自生成完整 16:9 左右双联画布。左侧保留现实摄影，右侧遵循本 Panel 原始提示词重构，严格 50:50。可见文字由模型按原始提示词从当前照片生成，语种在简体中文、英语、日语、韩语和阿拉伯语之间轮换。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 250 sample 21"></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 250 sample 22"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 250 sample 23"></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 250 sample 24"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 250 sample 25"></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 250 sample 26"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 250 sample 27"></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 250 sample 28"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 250 sample 29"></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 250 sample 30"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 250 sample 31"></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 250 sample 32"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 250 sample 33"></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 250 sample 34"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 250 sample 35"></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 250 sample 36"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 250 sample 37"></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 250 sample 38"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 250 sample 39"></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 250 sample 40"></td>
+  </tr>
+</table>
+
 ## 3:4 上下双联样张
 
 以下二十张使用彼此不同的独立素材，各自生成完整 3:4 上下双联画布。上部保留现实摄影，下部遵循本 Panel 原始提示词重构，严格 50:50。可见文字由模型按原始提示词从当前照片生成，语种在简体中文、英语、日语、韩语和阿拉伯语之间轮换。
