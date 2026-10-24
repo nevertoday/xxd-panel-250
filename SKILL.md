@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-250
-description: "Create XXD Panel 250 raster artwork: a faithful photograph paired with an abstract architectural illustration of geometric collage, playful modernism and editorial order. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-250 or asks for this 建筑几何诗 style."
+description: "XXD Panel 250｜Architectural Geometry Poem: compresses a photo into one memorable visual symbol built like abstract architectural illustration and geometric collage — architectural outlines, flat structures, simple geometric shapes, soft colour planes, thin lines and slightly irregular edges in a playful-modernist balance, a single anchor off-centre, suspended or cropped in a very light warm-white field, bright clear colours drawn from the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) and a small modern editorial title, number or label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-250 or asks for abstract architectural, geometric-collage or playful modernist poster illustration from a photo."
 ---
 
 # XXD Panel 250

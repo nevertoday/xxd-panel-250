@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 250｜Architectural Geometry Poem: compresses a photo into one memorable visual symbol built like abstract architectural illustration and geometric collage — architectural outlines, flat structures, simple geometric shapes, soft colour planes, thin lines and slightly irregular edges in a playful-modernist balance, a single anchor off-centre, suspended or cropped in a very light warm-white field, bright clear colours drawn from the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) and a small modern editorial title, number or label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-250 or asks for abstract architectural, geometric-collage or playful modernist poster illustration from a photo.",
+  "short_description": "建筑几何诗：把场景收成抽象建筑轮廓、几何模块和安静的编辑留白",
+  "zh-CN": {
+    "name": "建筑几何诗",
+    "tagline": "把照片里的场景收成抽象建筑轮廓、几何色块和安静的留白。",
+    "look": "照片被压成一个好记的视觉符号：用抽象的建筑轮廓、平面结构、简洁几何形、柔和块面和细线搭出骨架，边缘带一点不规则的手工感，介于有机几何和俏皮极简之间。只留一个视觉锚点，可以偏心、贴边、悬空或被裁切，背景是极浅的暖白或米白，大量留白。颜色比原照更亮更清：天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，一点暖橙或金黄作点睛。配一行小而克制的现代编辑字体标题、编号或注释，像建筑杂志里的标注。",
+    "traits": ["抽象建筑", "几何拼贴", "有机几何", "编辑秩序", "留白", "明亮清透"],
+    "good": [
+      "有清楚结构的建筑或空间：一座白房子、一段楼梯、一道拱门、一座小教堂",
+      "形状好概括的单个主体：一棵树、一把椅子、一个站着的人",
+      "想做成建筑海报、品牌视觉或艺术出版物配图的照片"
+    ],
+    "poor": [
+      "想要写实全景或保留大量细节的照片",
+      "元素很多、没有明确主体的杂乱场景",
+      "想要卡通、童趣儿童插画或普通扁平插画的效果"
+    ]
+  },
+  "en": {
+    "name": "Architectural Geometry Poem",
+    "tagline": "Turns your scene into abstract architectural outlines, geometric colour planes and quiet white space.",
+    "look": "The photo is compressed into one memorable symbol whose frame is built from abstract architectural outlines, flat structures, simple geometric shapes, soft colour planes and thin lines, the edges slightly irregular and hand-made, somewhere between organic geometry and playful minimalism. A single visual anchor remains, off-centre, against the edge, floating or cropped, on a very light warm-white or cream ground with plenty of space. Colours are brighter and clearer than the photo: sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink, with a touch of warm orange or gold as an accent. A small, restrained title, number or note in a modern editorial typeface sits like a caption in an architecture magazine.",
+    "traits": ["Abstract architecture", "Geometric collage", "Organic geometry", "Editorial order", "White space", "Bright and clear"],
+    "good": [
+      "Buildings or spaces with clear structure: a white house, a flight of stairs, an archway, a small chapel",
+      "A single subject that simplifies well: a tree, a chair, a standing figure",
+      "Photos you want as an architecture poster, brand visual or art-book image"
+    ],
+    "poor": [
+      "Wanting a realistic panorama or lots of detail kept",
+      "Messy scenes with many elements and no clear subject",
+      "Requests for a cartoon, childish kids' illustration or ordinary flat illustration look"
+    ]
+  },
+  "ja": {
+    "name": "建築幾何の詩",
+    "tagline": "写真の場面を、抽象的な建築の輪郭、幾何学の色面、静かな余白にまとめます。",
+    "look": "写真を覚えやすい一つの視覚記号に圧縮します。骨組みは抽象的な建築の輪郭、平面の構造、シンプルな幾何形、やわらかな面、細い線でつくり、縁には少し不規則な手仕事感を残して、有機的な幾何学と遊び心のあるミニマリズムのあいだに置きます。視覚の要は一つだけで、中心からずれても、端に寄っても、浮かんでも、切れてもよく、背景はごく淡い温かな白か生成りで余白をたっぷりとります。色は写真より明るく澄んでいます：空色、湖の青緑、若葉の緑、暖かな黄色、コーラルオレンジ、ピーチピンクに、暖かいオレンジや金色をひと差し。建築雑誌のキャプションのように、控えめなモダン編集書体の小さなタイトル、番号、注記を添えます。",
+    "traits": ["抽象建築", "幾何学コラージュ", "有機的な幾何", "編集的な秩序", "余白", "明るく澄んだ色"],
+    "good": [
+      "構造のはっきりした建物や空間：白い家、階段、アーチ、小さな礼拝堂",
+      "形を簡略化しやすい一つの主役：一本の木、椅子、立っている人",
+      "建築ポスター、ブランドビジュアル、アートブックの図版にしたい写真"
+    ],
+    "poor": [
+      "写実的なパノラマや細部をたくさん残したい場合",
+      "要素が多く主役のはっきりしない雑然とした場面",
+      "アニメ調、子どもっぽい児童イラスト、ありふれたフラットイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "건축 기하의 시",
+    "tagline": "사진 속 장면을 추상적인 건축 윤곽, 기하학 색면, 조용한 여백으로 정리합니다.",
+    "look": "사진을 기억하기 쉬운 시각 기호 하나로 압축합니다. 뼈대는 추상적인 건축 윤곽, 평면 구조, 단순한 기하 도형, 부드러운 면, 가는 선으로 세우고, 가장자리에는 조금 불규칙한 손맛을 남겨 유기적 기하와 장난스러운 미니멀리즘 사이에 둡니다. 시각적 중심은 하나만 남기며, 중심에서 벗어나거나 가장자리에 붙거나 떠 있거나 잘려도 되고, 배경은 아주 옅은 따뜻한 흰색이나 미색으로 여백을 넉넉히 둡니다. 색은 사진보다 밝고 맑습니다: 하늘색, 호수 같은 청록, 연두, 따뜻한 노랑, 코랄 오렌지, 복숭아 분홍에 따뜻한 주황이나 금빛을 포인트로. 건축 잡지의 캡션처럼 절제된 현대 편집 서체로 작은 제목, 번호, 메모를 넣습니다.",
+    "traits": ["추상 건축", "기하학 콜라주", "유기적 기하", "편집적 질서", "여백", "밝고 맑은 색"],
+    "good": [
+      "구조가 분명한 건물이나 공간: 하얀 집, 계단, 아치, 작은 예배당",
+      "단순하게 줄이기 좋은 주인공 하나: 나무 한 그루, 의자, 서 있는 사람",
+      "건축 포스터, 브랜드 비주얼, 아트북 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적인 전경이나 많은 세부를 살리고 싶은 경우",
+      "요소가 많고 주인공이 분명하지 않은 어수선한 장면",
+      "만화풍, 유치한 아동 일러스트, 평범한 플랫 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "قصيدة الهندسة المعمارية",
+    "tagline": "يحوّل المشهد في صورتك إلى خطوط معمارية مجرّدة ومساحات لونية هندسية وفراغ هادئ.",
+    "look": "تُضغط الصورة في رمز بصري واحد سهل التذكّر، يُبنى هيكله من خطوط معمارية مجرّدة وبنى مسطّحة وأشكال هندسية بسيطة ومساحات لونية ناعمة وخطوط رفيعة، وحوافه غير منتظمة قليلاً كأنها مصنوعة باليد، في منطقة بين الهندسة العضوية والبساطة المرحة. لا يبقى إلا مركز بصري واحد، بعيداً عن الوسط أو ملاصقاً للحافة أو معلّقاً أو مقتطعاً، على أرضية بيضاء دافئة فاتحة جداً أو كريمية مع فراغ واسع. الألوان أكثر إشراقاً وصفاءً من الصورة: أزرق السماء، أزرق البحيرة المخضر، أخضر غضّ، أصفر دافئ، برتقالي مرجاني، وردي خوخي، مع لمسة برتقالية دافئة أو ذهبية. يُكتب عنوان أو رقم أو ملاحظة صغيرة متحفّظة بخط تحريري حديث، كتعليق في مجلة معمارية.",
+    "traits": ["عمارة مجرّدة", "كولاج هندسي", "هندسة عضوية", "نظام تحريري", "فراغ أبيض", "ألوان مشرقة صافية"],
+    "good": [
+      "مبانٍ أو فضاءات واضحة البنية: بيت أبيض، درج، قوس، كنيسة صغيرة",
+      "عنصر واحد يسهل تبسيطه: شجرة، كرسي، شخص واقف",
+      "صور تريدها ملصقاً معمارياً أو هوية بصرية لعلامة أو صورة في كتاب فني"
+    ],
+    "poor": [
+      "الرغبة في منظر بانورامي واقعي أو الاحتفاظ بتفاصيل كثيرة",
+      "مشاهد فوضوية فيها عناصر كثيرة بلا عنصر رئيس واضح",
+      "طلب مظهر كرتوني أو رسوم أطفال طفولية أو رسم مسطّح عادي"
+    ]
+  }
+}
